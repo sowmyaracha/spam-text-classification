@@ -7,7 +7,7 @@ Using natural language processing techniques and neural networks, the system ach
 Develop an automated spam detection system that can accurately classify text messages, helping users filter unwanted spam communications.
 
 ## Dataset
-Source: TEXT.csv containing labeled text messages
+Source: TEXT (3).csv containing labeled text messages
 Format: Messages with binary labels (spam/ham)
 Split: 80% training, 10% validation, 10% testing
 
