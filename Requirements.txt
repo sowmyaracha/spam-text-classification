@@ -1,0 +1,1 @@
+Requirements:*  pandas - data manipulation *  numpy - numerical operations *  scikit-learn - machine learning models *  matplotlib & seaborn - visualization *  nltk - text processing *  jupyter - notebook support
